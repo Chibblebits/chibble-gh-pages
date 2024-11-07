@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chibblebits.github.io/chibble-gh-pages/sitemap.xml
